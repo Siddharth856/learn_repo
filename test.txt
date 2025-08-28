@@ -1,7 +1,6 @@
 hello git 
-<<<<<<< HEAD
 
 now moving ahead 
-=======
 how are you bro 
->>>>>>> 6c8a66d5f4db5aa9d31d06f7962a5ba045cff819
+iam fine how are you ? 
+ whats the status of code ?
